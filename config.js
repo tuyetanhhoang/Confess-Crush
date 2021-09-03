@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Gửi cho ... <3",
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Gửi cho Mia ^^",
+    introTitle: 'Made by talk_to_aht',
+    introDesc: '`I think I should call God, because I just find one of his angles here ',
+    btnIntro: 'Reply 2021',
+    title: 'Mỹ Anh quý tui không? 😙',
+    desc: 'From FTU to ULIS :> ',
+    btnYes: 'UwU, đương nhiên là quý cậu',
+    btnNo: 'Không, đồ đáng ghéc',
+    question: 'Trên thế giới hơn 7 tỉ người sao tui lại va phải Mia :3',
+    btnReply: 'Tui rất mong chờ câu trả lời của cậu',
+    reply: 'Bởi vì mỗi cuộc gặp gỡ đều mang một ý nghĩa nào đó, có người khiến Mia buồn nhưng cũng có người muốn thấy cậu cười nhiều hơn ',
+    mess: 'Cậu xứng đáng với những điều tốt đẹp nhất, young and rich gurl ',
+    messDesc: 'Hết dịch thì...',
+    btnAccept: 'Chờ cậu',
+    messLink: 'https://www.facebook.com/hoang.esther.58/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
